@@ -37,15 +37,15 @@ My research interests include large-scale spatio-temporal statistics, subsamplin
 - Sameh Abdulah, Allison H. Baker, George Bosilca, Qinglei Cao, Stefano Castruccio, Marc G. Genton, David E. Keyes, Zubair Khalid, Hatem Ltaief, **Yan Song**, Georgiy L. Stenchikov, and Ying Sun, "Boosting earth system model outputs and saving petabytes in their storage using exascale climate emulators," *2024 ACM Gordon Bell Prize for Climate Modelling*, finalist.
 
 # Talks
-- *2024.08*, Joint Statistical Meetings, Portland, Oregon, US, 2024 -- *Efficient stochastic generators with spherical harmonic transformation for high-resolution global climate simulations from CESM2-LENS2*.
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
+- *2024.08*, Joint Statistical Meetings, Portland, Oregon, US, 2024 - *Efficient stochastic generators with spherical harmonic transformation for high-resolution global climate simulations from CESM2-LENS2*.
+- *2023.11*, KAUST Statistics workshop, Thuwal, Makkah, Saudi Arabia - *Efficient stochastic generators with spherical harmonic transformation for high-resolution global climate simulations from CESM2-LENS2*.
+- *2022.11*, KAUST Statistics workshop, Thuwal, Makkah, Saudi Arabia - *Large-scale low-rank Gaussian process prediction with support points*.
+- *2020,12*, National Forum for Doctoral Students in Statistics, Guangzhou, Guangdong, China - *A model-free subsampling method based on minimum energy criterion*.
+- *2020,11*, RUC Youth Forum on Statistics and Data Science, Beijing, China - *A model-free subsampling method based on minimum energy criterion*.
 
 # Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-
 
 # Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
