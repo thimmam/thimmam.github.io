@@ -25,7 +25,9 @@ My research interests include large-scale spatio-temporal statistics, subsamplin
 - *2024.07*: &nbsp; [KAUST team selected as ACM Gordon Bell Prize for Climate Modelling finalists](https://cemse.kaust.edu.sa/news/kaust-team-selected-acm-gordon-bell-prize-climate-modelling-finalists)
 
 # Publications 
-**Yan Song**, Zubair Khalid, and Marc G. Genton (2024), ["Efficient Stochastic Generators with Spherical Harmonic Transformation for High-Resolution Global Climate Simulations from CESM2-LENS2"](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2360666), *Journal of the American Statistical Association*, published online.
+- **Yan Song**, Zubair Khalid, and Marc G. Genton (2024), ["Efficient Stochastic Generators with Spherical Harmonic Transformation for High-Resolution Global Climate Simulations from CESM2-LENS2,"](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2360666) *Journal of the American Statistical Association*, published online.
+- Maoyu Zhang, **Yan Song**, and Wenlin Dai (2024), ["Fast robust location and scatter estimation: a depth-based method,"](https://www.tandfonline.com/doi/full/10.1080/00401706.2023.2216246) *Technometrics*, 66:1, 14-27.
+- Yiping Hong, Yan Song, Sameh Abdulah, Ying Sun, Hatem Ltaief, David E.Keyes, and Marc G. Genton (2023),["The third competition on spatial statistics for large datasets,"](https://doi.org/10.1007/s13253-023-00584-9) *Journal of Agricultural, Biological and Environmental Statistics*, 28, 618-635.
 
 
 
