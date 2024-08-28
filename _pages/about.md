@@ -25,8 +25,7 @@ My research interests include large-scale spatio-temporal statistics, subsamplin
 - *2024.07*: &nbsp; [KAUST team selected as ACM Gordon Bell Prize for Climate Modelling finalists](https://cemse.kaust.edu.sa/news/kaust-team-selected-acm-gordon-bell-prize-climate-modelling-finalists)
 
 # Publications 
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Yan Song**, Zubair Khalid, and Marc G. Genton (2024), [Efficient Stochastic Generators with Spherical Harmonic Transformation for High-Resolution Global Climate Simulations from CESM2-LENS2](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2360666), *Journal of the American Statistical Association*, 1-15, DOI: 10.1080/01621459.2024.2360666.
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
