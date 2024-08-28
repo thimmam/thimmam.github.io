@@ -22,8 +22,7 @@ I am a Postdoctoral Fellow at King Abdullah University of Science and Technology
 My research interests include large-scale spatio-temporal statistics, subsampling, and non-parametric regression.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.07*: &nbsp;🎉🎉 [KAUST team selected as ACM Gordon Bell Prize for Climate Modelling finalists](https://cemse.kaust.edu.sa/news/kaust-team-selected-acm-gordon-bell-prize-climate-modelling-finalists)
 
 # 📝 Publications 
 
