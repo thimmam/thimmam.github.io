@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Postdoctoral Fellow at King Abdullah University of Science and Technology (KAUST), affiliated with the Spatio-Temporal Statistics and Data Science (STSDS) research group led by Prof. Genton. I received my Ph.D. degree in Statistics from Renmin University of China in 2023. During my doctoral studies, I undertook research visits to Hong Kong Baptist University and KAUST. I received my BS degree in Statistics from Beijing Institute of Technology, China, 2018. 
 
-My research interests include large-scale spatio-temporal statistics, subsampling, and non-parametric regression.
+My research interests include spatio-temporal statistics, subsampling methods, and nonparametric regressions. My work primarily focuses on spatio-temporal statistics, particularly in the analysis of large-scale spatio-temporal data and the development of large- and exa-scale climate emulators, with Gaussian processes being key tools. During my Ph.D., I concentrated on developing subsampling techniques for various data types and statistical models, with an emphasis on nonparametric regressions.
 
 # News
 - *2024.07*: &nbsp; [KAUST team selected as ACM Gordon Bell Prize for Climate Modelling finalists](https://cemse.kaust.edu.sa/news/kaust-team-selected-acm-gordon-bell-prize-climate-modelling-finalists)
@@ -42,6 +42,16 @@ My research interests include large-scale spatio-temporal statistics, subsamplin
 - *2022.11*, KAUST Statistics workshop, Thuwal, Makkah, Saudi Arabia - *Large-scale low-rank Gaussian process prediction with support points*.
 - *2020,12*, National Forum for Doctoral Students in Statistics, Guangzhou, Guangdong, China - *A model-free subsampling method based on minimum energy criterion*.
 - *2020,11*, RUC Youth Forum on Statistics and Data Science, Beijing, China - *A model-free subsampling method based on minimum energy criterion*.
+
+# Teaching 
+- *2024* Half part of short course ``Large-Scale Spatial Data Science" at JSM.
+- *2024* A part of short course for the Applied Mathematics and Computational Science and Statistics (AMCS-STAT) school.
+- *2024.08* One lesson of course STAT 330: Multivariate Statistics at KAUST.
+- *2023.04* Teaching assistant of course Spatial Statistics at RUC.
+- *2022Fall* Teaching assistant of course Asymptotic Statistics at RUC.
+- *2021Fall* Teaching assistant of course Asymptotic Statistics at RUC.
+- *2021Spring* Teaching assistant of course Statistical Learning at RUC.
+- *2020Spring* Teaching assistant of course Stochastic Process at RUC.
 
 # Educations
 - *2018.09 - 2023.06*, Ph.D. in Statistics, Renmin University of China, Beijing, China. 
