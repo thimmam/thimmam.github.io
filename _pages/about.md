@@ -44,9 +44,9 @@ My research interests include large-scale spatio-temporal statistics, subsamplin
 - *2020,11*, RUC Youth Forum on Statistics and Data Science, Beijing, China - *A model-free subsampling method based on minimum energy criterion*.
 
 # Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2018.09 - 2023.06*, Ph.D. in Statistics, Renmin University of China, Beijing, China. 
+- *2014.09 - 2018.06*, B.S. in Statistics, Beijing Institute of Technology, Beijing, China. 
 
 # Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.12* The second prize of Outstanding Papers, National Forum for Doctoral Students in Statistics.
+- *2020.11* Outstanding Poster, RUC Youth Forum on Statistics and Data Science.
