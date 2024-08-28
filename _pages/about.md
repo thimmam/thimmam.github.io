@@ -25,16 +25,9 @@ My research interests include large-scale spatio-temporal statistics, subsamplin
 - *2024.07*: &nbsp; [KAUST team selected as ACM Gordon Bell Prize for Climate Modelling finalists](https://cemse.kaust.edu.sa/news/kaust-team-selected-acm-gordon-bell-prize-climate-modelling-finalists)
 
 # Publications 
-**Yan Song**, Zubair Khalid, and Marc G. Genton (2024), [Efficient Stochastic Generators with Spherical Harmonic Transformation for High-Resolution Global Climate Simulations from CESM2-LENS2](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2360666), *Journal of the American Statistical Association*, 1-15, DOI: 10.1080/01621459.2024.2360666.
+**Yan Song**, Zubair Khalid, and Marc G. Genton (2024), "[Efficient Stochastic Generators with Spherical Harmonic Transformation for High-Resolution Global Climate Simulations from CESM2-LENS2]"(https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2360666), *Journal of the American Statistical Association*, published online.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
