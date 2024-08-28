@@ -19,7 +19,9 @@ redirect_from:
 
 I am a Postdoctoral Fellow at King Abdullah University of Science and Technology (KAUST), affiliated with the Spatio-Temporal Statistics and Data Science (STSDS) research group led by Prof. Genton. I received my Ph.D. degree in Statistics from Renmin University of China in 2023. During my doctoral studies, I undertook research visits to Hong Kong Baptist University and KAUST. I received my BS degree in Statistics from Beijing Institute of Technology, China, 2018. 
 
-My research interests include spatio-temporal statistics, subsampling methods, and nonparametric regressions. My work primarily focuses on spatio-temporal statistics, particularly in the analysis of large-scale spatio-temporal data and the development of large- and exa-scale climate emulators, with Gaussian processes being key tools. During my Ph.D., I concentrated on developing subsampling techniques for various data types and statistical models, with an emphasis on nonparametric regressions.
+My research interests include **spatio-temporal statistics**, **subsampling methods**, and **nonparametric regressions**. My work primarily focuses on spatio-temporal statistics, particularly in the analysis of large-scale spatio-temporal data and the development of large- and exa-scale climate emulators, with Gaussian processes being key tools. During my Ph.D., I concentrated on developing subsampling techniques for various data types and statistical models, with an emphasis on nonparametric regressions.
+
+[CV](images/CV.pdf)
 
 # News
 - *2024.07*: &nbsp; [KAUST team selected as ACM Gordon Bell Prize for Climate Modelling finalists](https://cemse.kaust.edu.sa/news/kaust-team-selected-acm-gordon-bell-prize-climate-modelling-finalists)
