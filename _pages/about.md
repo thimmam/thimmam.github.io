@@ -21,7 +21,7 @@ I am a Postdoctoral Fellow at King Abdullah University of Science and Technology
 
 My research interests include **spatio-temporal statistics**, **subsampling methods**, and **nonparametric regressions**. My work primarily focuses on spatio-temporal statistics, particularly in the analysis of large-scale spatio-temporal data and the development of large- and exa-scale climate emulators, with Gaussian processes being key tools. During my Ph.D., I concentrated on developing subsampling techniques for various data types and statistical models, with an emphasis on nonparametric regressions.
 
-[CV](images/CV.pdf)
+For more details, please refer to my [CV](CV.pdf).
 
 # News
 - *2024.07*: &nbsp; [KAUST team selected as ACM Gordon Bell Prize for Climate Modelling finalists](https://cemse.kaust.edu.sa/news/kaust-team-selected-acm-gordon-bell-prize-climate-modelling-finalists)
