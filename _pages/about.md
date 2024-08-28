@@ -43,7 +43,7 @@ My research interests include spatio-temporal statistics, subsampling methods, a
 - *2020,12*, National Forum for Doctoral Students in Statistics, Guangzhou, Guangdong, China - *A model-free subsampling method based on minimum energy criterion*.
 - *2020,11*, RUC Youth Forum on Statistics and Data Science, Beijing, China - *A model-free subsampling method based on minimum energy criterion*.
 
-# Teaching 
+# Teachings 
 - *2024* Half part of short course ``Large-Scale Spatial Data Science" at JSM.
 - *2024* A part of short course for the Applied Mathematics and Computational Science and Statistics (AMCS-STAT) school.
 - *2024.08* One lesson of course STAT 330: Multivariate Statistics at KAUST.
