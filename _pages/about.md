@@ -32,10 +32,9 @@ My research interests include large-scale spatio-temporal statistics, subsamplin
 - Yiping Hong, Yan Song, Sameh Abdulah, Ying Sun, Hatem Ltaief, David E.Keyes, and Marc G. Genton (2023),"[The third competition on spatial statistics for large datasets](https://doi.org/10.1007/s13253-023-00584-9)," *Journal of Agricultural, Biological and Environmental Statistics*, 28, 618-635.
 - Wenlin Dai, **Yan Song(co-first)**, and Dianpeng Wang (2023), "[A subsampling method for regression problems based on minimum energy criterion](https://doi.org/10.1080/00401706.2022.2127915)," *Technometrics*, 65, 192-205.
 
-## Under revision
--
-
-
+### Under revision
+- **Yan Song**, Wenlin Dai, and Marc G. Genton, "Large-scale low-rank Gaussian process prediction with support points," *Journal of the American Statistical Association*, acceptable with minor revision.
+- Sameh Abdulah, Allison H. Baker, George Bosilca, Qinglei Cao, Stefano Castruccio, Marc G. Genton, David E. Keyes, Zubair Khalid, Hatem Ltaief, **Yan Song**, Georgiy L. Stenchikov, and Ying Sun, "Boosting earth system model outputs and saving petabytes in their storage using exascale climate emulators," *2024 ACM Gordon Bell Prize for Climate Modelling*, finalist.
 
 # Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
