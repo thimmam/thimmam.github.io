@@ -47,7 +47,7 @@ For more details, please refer to my [CV](CV.pdf).
 
 # Talks
 - *2024.10*, KAUST Graduate Seminar, Thuwal, Makkah, Saudi Arabia - *Efficient stochastic generators with spherical harmonic transformation for high-resolution global climate simulations from CESM2-LENS2*.
-- *2024.08*, Joint Statistical Meetings, Portland, Oregon, US, 2024 - *Efficient stochastic generators with spherical harmonic transformation for high-resolution global climate simulations from CESM2-LENS2*.
+- *2024.08*, Joint Statistical Meetings, Portland, Oregon, USA - *Efficient stochastic generators with spherical harmonic transformation for high-resolution global climate simulations from CESM2-LENS2*.
 - *2023.11*, KAUST Statistics workshop, Thuwal, Makkah, Saudi Arabia - *Efficient stochastic generators with spherical harmonic transformation for high-resolution global climate simulations from CESM2-LENS2*.
 - *2022.11*, KAUST Statistics workshop, Thuwal, Makkah, Saudi Arabia - *Large-scale low-rank Gaussian process prediction with support points*.
 - *2020,12*, National Forum for Doctoral Students in Statistics, Guangzhou, Guangdong, China - *A model-free subsampling method based on minimum energy criterion*.
