@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yan Song"
-description              : "Postdoctoral Fellow in Statistics"
-repository               : "YanSong996/YanSong996.github.io"
+title                    : "Mallikarjuna Thimmapuram"
+description              : "High Performance Engineer"
+repository               : "arjun271985/arjun271985.github.io"
 google_scholar_stats_use_cdn : FALSE
 
 # google analytics
@@ -22,14 +22,14 @@ google_scholar_stats_use_cdn : FALSE
 # Site Author
 author:
   name             : "Yan Song"
-  avatar           : "images/1718244465035.jpeg"
+  avatar           : "images/mypic-alith1.jpeg"
   bio              : "King Abdullah University of Science and Technology"
   location         : "Jeddah, KSA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Em4gMRoAAAAJ"
-  email            : "yan.song@kaust.edu.sa"
-  researchgate     :  "https://www.researchgate.net/profile/Yan-Song-58"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=fjYWuEQAAAAJ"
+  email            : "mallikarjuna.thimmapuram@kaust.edu.sa"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -37,18 +37,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "YanSong996"
+  github           : "arjun271985"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yan-song-828494311"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-9854-7749"
+  linkedin         : 
+  dblp             : 
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Riyadh # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
