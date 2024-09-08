@@ -27,21 +27,21 @@ Bmiwed-platform environments
 
 For more details, please refer to my [Mallikarjuna_Thimmapuram.pdf]
 
-# News ,
+# News:
 -"https://recoverit.wondershare.com/harddrive-recovery/deleted-file-recovery-ubuntu.html"
 -"https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2360666"
 
 
 
-# Education
+# Education:
 - *2006*, Bachelor of Science(Computers) , SV University, Tirupathi, Andhrapradesh,INDIA. 
 
 
 # Honors and Awards
 -
 
-# Publications 
--
+# Publications:
+-"https://github.com/arjun271985/thimmam.github.io"
 -
 
 # Talks
