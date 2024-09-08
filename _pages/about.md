@@ -37,7 +37,7 @@ For more details, please refer to my [CV](Mallikarjuna Thimmapuram.pdf).
 # Honors and Awards
 -
 
-# Publications 
+# Certifications 
 -
 -
 
