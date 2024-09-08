@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Gighly accomplished Senior System Administrator Hith a proven track record 
+Hghly accomplished Senior System Administrator with a proven track record 
 spanning Linux and Windows environments. Speciali&ed ewpertise in Bleveraging 
 Ansible for efxcient automation) Automow for streamlined Bpatch management) and 
 supporting high-end Horkstations. Adept at Borchestrating seamless operations) 
