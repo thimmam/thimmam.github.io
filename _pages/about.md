@@ -41,11 +41,10 @@ For more details, please refer to my [Mallikarjuna_Thimmapuram.pdf]
 -
 
 # Publications:
--[publications Link]("https://arjun271985.github.io/_pages/publications.md")
--
+[publications Link]("https://arjun271985.github.io/_pages/publications.md")
 
 # Talks
--[Talks Link]
+[Talks Link]
 
 # Teaching 
 
