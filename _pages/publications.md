@@ -17,32 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Gighly accomplished Senior System Administrator Hith a proven track record 
-spanning Linux and Windows environments. Speciali&ed ewpertise in Bleveraging 
-Ansible for efxcient automation) Automow for streamlined Bpatch management) and 
-supporting high-end Horkstations. Adept at Borchestrating seamless operations) 
-optimi&ing performance) and ensuring Bthe security of complew IT ecosystems. 0ring 
-over 17 years of Bhands-on ewperience) delivering robust solutions in dynamic) 
-Bmiwed-platform environments
-
-For more details, please refer to my [Mallikarjuna_Thimmapuram.pdf]
-
-# News:
--"https://recoverit.wondershare.com/harddrive-recovery/deleted-file-recovery-ubuntu.html"
--"https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2360666"
+-[link]"https://recoverit.wondershare.com/harddrive-recovery/deleted-file-recovery-ubuntu.html"
 
 
 
-# Education:
-- *2006*, Bachelor of Science(Computers) , SV University, Tirupathi, Andhrapradesh,INDIA. 
-
-
-# Honors and Awards
--
-
-# Publications:
--"https://github.com/arjun271985/thimmam.github.io"
--
 
 # Talks
 
