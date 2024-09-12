@@ -28,8 +28,8 @@ Bmiwed-platform environments
 For more details, please refer to my [Mallikarjuna_Thimmapuram.pdf]
 
 # News:
--"https://recoverit.wondershare.com/harddrive-recovery/deleted-file-recovery-ubuntu.html"
--"https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2360666"
+-[Link]("https://recoverit.wondershare.com/harddrive-recovery/deleted-file-recovery-ubuntu.html")
+-[Link]("https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2360666")
 
 
 
@@ -41,11 +41,11 @@ For more details, please refer to my [Mallikarjuna_Thimmapuram.pdf]
 -
 
 # Publications:
--"https://github.com/arjun271985/thimmam.github.io"
+-[publications Link]("https://arjun271985.github.io/_pages/publications.md")
 -
 
 # Talks
-
+-[Talks Link]
 
 # Teaching 
 
